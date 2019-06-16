@@ -1,0 +1,2 @@
+**/*.conf
+!/config/resilio-master.conf
